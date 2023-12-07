@@ -1,0 +1,11 @@
+{
+  "item.tutorialmod.raw_obamium": "Raw Obamium",
+  "item.tutorialmod.obamium": "Obamium",
+
+  "block.tutorialmod.obamium_block": "Block of Obama",
+  "block.tutorialmod.raw_obamium_block": "Block of Raw Obama",
+  "block.tutorialmod.obamium_ore": "Obamium Ore",
+  "block.tutorialmod.deepslate_obamium_ore": "Deepslate Obamium Ore",
+
+  "itemGroup.tutorialtab": "ObamaMod Tutorial Tab"
+}
