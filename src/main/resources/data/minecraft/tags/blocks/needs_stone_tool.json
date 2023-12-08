@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:obamium_ore",
+    "tutorialmod:obamium_block",
+    "tutorialmod:raw_obamium_block",
+    "tutorialmod:deepslate_obamium_ore"
+  ]
+}
